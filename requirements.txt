@@ -1,4 +1,4 @@
 # Known to work with these versions. Versions bracketed for safety.
 httpsig<2
-djangorestframework<3
+djangorestframework<3.10
 django<2.2
