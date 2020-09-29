@@ -12,8 +12,6 @@ INSTALLED_APPS = (
     'drf_httpsig',
 )
 
-ROOT_URLCONF = 'drf_httpsig.tests'
-
 SECRET_KEY = 'MY PRIVATE SECRET'
 
 MIDDLEWARE_CLASSES = (
